@@ -13,4 +13,4 @@
 
 [วิธีการสร้าง Github](https://www.youtube.com/watch?v=husJ64dE8ls)
 
-![ตัวอย่าง Microcontroller ESP32](https://drive.google.com/open?id=1cSxPfbH73JWDdyS3nSLv9qR3BS8dPEff)
+![ตัวอย่าง Microcontroller ESP32](micoo.jpg)
